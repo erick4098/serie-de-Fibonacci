@@ -6,7 +6,13 @@ el programa se inicializo con un do while para que primeramente nos de la cantid
 
 
 
+
+
 ![1](https://user-images.githubusercontent.com/72112634/94633506-1c1c5900-0293-11eb-879e-ac1c96f25d30.png)
+
+
+
+
 
 
 por ejemplo al ejecutar el programa nos pide que introduzcamos el numero de digitos para la serie, le daremos enter y nos dara el resultado de la suma de los dos ultimos digitos, dependiendo del numero de digitos dado al comienzo
